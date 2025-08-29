@@ -15,7 +15,7 @@
 }
 
 
-body{
+.login-body{
     background-color: #171717;
 }
 
@@ -27,7 +27,7 @@ h1{
 }
 
 p{
-    color: rgb(194, 194, 194);
+    color: rgb(41, 41, 41);
     font-family: 'inter-regular';
     font-size: 16px;
     padding: 10px ;
@@ -69,7 +69,7 @@ p{
     width: 280px;
     margin-top: 30px;
     height: 50px;
-    border-radius: 5px;
+    border-radius: 50px;
     background-color: #F15635;
     border: none;
     color: aliceblue;
